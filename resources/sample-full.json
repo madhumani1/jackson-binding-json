@@ -1,0 +1,15 @@
+{
+	"id": 8,
+	"firstName": "Madhukar",
+	"lastName": "Mani",
+	"active": true,
+	"address": {
+		"street": "262 Sedgewood St",
+		"city": "Kitchener",
+		"province": "ONTARIO",
+		"postalCode": "N2K2T8",
+		"country": "Canada"
+	},
+	"languages" : ["Java", "C#", "REACT", "Javascript"],
+	"company" : "Sunlife"
+}
